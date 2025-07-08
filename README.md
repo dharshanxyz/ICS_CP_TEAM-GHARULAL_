@@ -1,4 +1,4 @@
-# ICS_CP_PROJECT
+# ICS_PROJECT_EQUATION_SOLVER
 This C program allows us to solve linear equations, quadratic equations, or systems of linear equations based on their input. Here's a brief explanation of the code:
 
 1. Header Files:
